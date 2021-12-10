@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 day la login
 
 
@@ -5,3 +6,6 @@ develop
 
 tao layout 
 >>>>>>> develop
+=======
+develop
+>>>>>>> 4f0a100d319e9e01053cbb1ed50947ba6ddc1c51
