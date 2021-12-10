@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 dasdasdasdasd
 tao layout 
+=======
+
+
+
+dang la 
+develop
+>>>>>>> develop
