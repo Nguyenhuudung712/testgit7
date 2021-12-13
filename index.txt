@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+=======
+
+solve conflict 
+<<<<<<< HEAD
+
+
+develop
+=======
+master 
+>>>>>>> master
+>>>>>>> develop
