@@ -1,10 +1,6 @@
-conflict <<<<<<< HEAD
-
-<<<<<<< HEAD
-
-
-develop
-=======
-=======
 >>>>>>> master
+<<<<<<< HEAD
+>>>>>>> develop
+=======
 master 
+>>>>>>> develop
