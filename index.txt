@@ -1,11 +1,1 @@
-
-fix conflict 
-<<<<<<< HEAD
-
-
-up date develop 
- la 
-develop
-=======
 master 
->>>>>>> master
